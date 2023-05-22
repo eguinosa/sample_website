@@ -12,3 +12,7 @@
 #nav-home.nav-spacing{
     margin: 0;
 }
+
+.image-link {
+    text-decoration: none;
+}
